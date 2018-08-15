@@ -1,0 +1,1 @@
+package com.dirolep.VO;import lombok.Data;/** * controller返回结果 * Created by xieyao on 2018/1/12. */@Datapublic class ResultVO<T> {    private Integer code;    private String msg;    private Long count;    private T data;}
