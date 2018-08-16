@@ -1,10 +1,8 @@
 
-\.idea/
-
-src/main/resources/\.DS_Store
-
-src/test/
-
 target/
 
+\.idea/
+
 \.DS_Store
+
+src/test/
