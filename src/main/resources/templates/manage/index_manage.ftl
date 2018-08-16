@@ -69,7 +69,6 @@
     <#-- 内容主体区域 -->
         <iframe name="layui-body" id="layui-body" frameborder="0" width=100% height=98%></iframe>
     </div>
-
     <div class="layui-footer">
         Powered by XY © 2018 XY All Rights Reserved
     </div>

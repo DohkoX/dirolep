@@ -7,6 +7,5 @@ spring:
   freemarker:
     settings:
       template_update_delay: 0
-    cache: true
   aop:
     proxy-target-class: true  #需要使用CGLIB来实现AOP的时候
